@@ -1,0 +1,16 @@
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\bin\Debug\net5.0\Carros.exe
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\bin\Debug\net5.0\Carros.deps.json
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\bin\Debug\net5.0\Carros.runtimeconfig.json
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\bin\Debug\net5.0\Carros.runtimeconfig.dev.json
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\bin\Debug\net5.0\Carros.dll
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\bin\Debug\net5.0\ref\Carros.dll
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\bin\Debug\net5.0\Carros.pdb
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\obj\Debug\net5.0\Carros.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\obj\Debug\net5.0\Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\obj\Debug\net5.0\Carros.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\obj\Debug\net5.0\Carros.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\obj\Debug\net5.0\Carros.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\obj\Debug\net5.0\Carros.dll
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\obj\Debug\net5.0\ref\Carros.dll
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\obj\Debug\net5.0\Carros.pdb
+C:\Users\Arthur\Desktop\Digital Innovation One\Projeto de App de Cadastros\Carros\obj\Debug\net5.0\Carros.genruntimeconfig.cache
